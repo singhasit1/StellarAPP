@@ -1,0 +1,10 @@
+### SDET coding challenge
+For automating MapSync Application using Selenium as automation tool using java as a programming language.
+### Description 
+I have desinged the framework with BDD(Cucumber)with hybrid type.Basically dependent on following tools
+1.Selenium Java Library
+2.Maven as Building tool
+3.Apache POI for Test Data driver.
+3.Cucumber and TestNg for designing the framework.
+4.Git as Code Repository
+5.Extent Report and Cucumber report for Reporting.

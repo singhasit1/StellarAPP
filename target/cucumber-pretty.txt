@@ -1,0 +1,43 @@
+Feature: Verify Area Screen Functionality
+
+  @Sanity
+  Scenario: Create an area                                            # Area.feature:4
+    Given Launch Browser And Application                              # TestAreaScreen.launch_Browser_And_Application()
+    When Area List  Opens                                             # TestAreaScreen.area_List_Opens()
+    And User Clicks on Add Area button                                # TestAreaScreen.user_Clicks_on_Add_Area_button()
+    Then Area Details  Open                                           # TestAreaScreen.area_Details_Open()
+    When User Provide Area Name As "North England"                    # TestAreaScreen.User_Provide_Area_Name_As(String)
+    And User Provide Area Code As "NE"                                # TestAreaScreen.User_Provide_Area_Code_As(String)
+    And User Provide Audience Set As "BARB"                           # TestAreaScreen.User_Provide_Audience_Set_As(String)
+    And User Provide Descriptions AS "North England Of BARB Audience" # TestAreaScreen.User_Provide_Descriptions_AS(String)
+    And Click on Submit button                                        # TestAreaScreen.click_on_Submit_button()
+    Then Verify That Area Name Created As "North England"             # TestAreaScreen.verify_That_Area_Name_Created_As(String)
+      org.junit.ComparisonFailure: expected:<[North Eng]land> but was:<[Mid]land>
+      	at org.junit.Assert.assertEquals(Assert.java:115)
+      	at org.junit.Assert.assertEquals(Assert.java:144)
+      	at com.mapsynq.TestAreaScreen.verify_That_Area_Name_Created_As(TestAreaScreen.java:66)
+      	at ✽.Then Verify That Area Name Created As "North England"(Area.feature:14)
+
+    Then Close The Browser                                            # TestAreaScreen.close_The_Browser()
+
+  @Sanity
+  Scenario: Amend  an Area                                           # Area.feature:18
+    Given Launch Browser And Application                             # TestAreaScreen.launch_Browser_And_Application()
+    When Area List  Opens                                            # TestAreaScreen.area_List_Opens()
+    When User Select Area Name As "North England"                    # TestAreaScreen.user_Select_Area_Name_As(String)
+    Then User Clicks on Amend Area button                            # TestAreaScreen.user_Clicks_on_Amend_Area_button()
+    Then User Change Area Name From North England To "South England" # TestAreaScreen.User_Change_Area_Name_From_North_England_To(String)
+    And Click on Submit button                                       # TestAreaScreen.click_on_Submit_button()
+    Then Verify That Area Name Changed to "South England"            # TestAreaScreen.verify_That_Area_Name_Changed_to(String)
+    Then Close The Browser                                           # TestAreaScreen.close_The_Browser()
+
+  @Sanity
+  Scenario: Delete an Area                                                # Area.feature:29
+    Given Launch Browser And Application                                  # TestAreaScreen.launch_Browser_And_Application()
+    When Area List  Opens                                                 # TestAreaScreen.area_List_Opens()
+    Then User Select Area Name As "South England"                         # TestAreaScreen.user_Select_Area_Name_As(String)
+    And User Clicks On  Delete Area Button                                # TestAreaScreen.user_Clicks_On_Delete_Area_Button()
+    Then System Warn A Message That "Are you sure to delete "             # TestAreaScreen.system_Warn_A_Message_That(String)
+    When User Click On Ok Button                                          # TestAreaScreen.user_Click_On_Ok_Button()
+    Then Verify That Area Name "South England" Deleted From The Area List # TestAreaScreen.verify_That_Area_Name_Deleted_From_The_Area_List(String)
+    Then Close The Browser                                                # TestAreaScreen.close_The_Browser()

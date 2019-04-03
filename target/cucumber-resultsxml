@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="1" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="25.500515">
+<testcase classname="Verify Area Screen Functionality" name="Create an area" time="9.921327">
+<failure message="org.junit.ComparisonFailure: expected:&lt;[North Eng]land&gt; but was:&lt;[Mid]land&gt;&#13;&#10;&#9;at org.junit.Assert.assertEquals(Assert.java:115)&#13;&#10;&#9;at org.junit.Assert.assertEquals(Assert.java:144)&#13;&#10;&#9;at com.mapsynq.TestAreaScreen.verify_That_Area_Name_Created_As(TestAreaScreen.java:66)&#13;&#10;&#9;at ✽.Then Verify That Area Name Created As &quot;North England&quot;(Area.feature:14)&#13;&#10;"><![CDATA[Given Launch Browser And Application........................................passed
+When Area List  Opens.......................................................passed
+And User Clicks on Add Area button..........................................passed
+Then Area Details  Open.....................................................passed
+When User Provide Area Name As "North England"..............................passed
+And User Provide Area Code As "NE"..........................................passed
+And User Provide Audience Set As "BARB".....................................passed
+And User Provide Descriptions AS "North England Of BARB Audience"...........passed
+And Click on Submit button..................................................passed
+Then Verify That Area Name Created As "North England".......................failed
+Then Close The Browser......................................................skipped
+
+StackTrace:
+org.junit.ComparisonFailure: expected:<[North Eng]land> but was:<[Mid]land>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at com.mapsynq.TestAreaScreen.verify_That_Area_Name_Created_As(TestAreaScreen.java:66)
+	at ✽.Then Verify That Area Name Created As "North England"(Area.feature:14)
+]]></failure>
+</testcase>
+<testcase classname="Verify Area Screen Functionality" name="Amend  an Area" time="8.840612">
+<system-out><![CDATA[Given Launch Browser And Application........................................passed
+When Area List  Opens.......................................................passed
+When User Select Area Name As "North England"...............................passed
+Then User Clicks on Amend Area button.......................................passed
+Then User Change Area Name From North England To "South England"............passed
+And Click on Submit button..................................................passed
+Then Verify That Area Name Changed to "South England".......................passed
+Then Close The Browser......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Verify Area Screen Functionality" name="Delete an Area" time="6.738576">
+<system-out><![CDATA[Given Launch Browser And Application........................................passed
+When Area List  Opens.......................................................passed
+Then User Select Area Name As "South England"...............................passed
+And User Clicks On  Delete Area Button......................................passed
+Then System Warn A Message That "Are you sure to delete "...................passed
+When User Click On Ok Button................................................passed
+Then Verify That Area Name "South England" Deleted From The Area List.......passed
+Then Close The Browser......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

@@ -1,0 +1,496 @@
+2019-01-21 16:01:412 INFO  CameraPages:38 - Navigate to Camera Tab...
+2019-01-21 16:01:916 INFO  TestCamera:25 - Navigate to Camera Tab
+2019-01-21 16:01:966 INFO  TestCamera:31 - Verify the total live traffic camera of Singapore
+2019-01-21 16:01:671 INFO  TestCamera:38 - Verify all the location of singapore having live traffic cameras S
+2019-01-21 16:01:681 INFO  TestCamera:43 - Verify the total live traffic camera of Malaysia
+2019-01-21 16:01:236 INFO  TollPages:34 - Navigate to Toll Tab...
+2019-01-21 16:01:640 INFO  TestTolls:24 - Navigate to Toll Tab
+2019-01-21 16:01:670 INFO  TestTolls:30 - Verify the total count of singapore location having Toll gate
+2019-01-21 16:01:387 INFO  TestTolls:38 - Verify all the location of singapore having Toll Gates
+2019-01-21 16:01:387 INFO  TestCamera:43 - Verify the total live traffic camera of Malaysia
+2019-01-21 16:01:281 INFO  CameraPages:38 - Navigate to Camera Tab...
+2019-01-21 16:01:760 INFO  TestCamera:25 - Navigate to Camera Tab
+2019-01-21 16:01:792 INFO  TestCamera:31 - Verify the total live traffic camera of Singapore
+2019-01-21 16:01:421 INFO  TestCamera:38 - Verify all the location of singapore having live traffic cameras S
+2019-01-21 16:01:421 INFO  TestCamera:43 - Verify the total live traffic camera of Malaysia
+2019-01-21 16:01:16 INFO  TollPages:34 - Navigate to Toll Tab...
+2019-01-21 16:01:426 INFO  TestTolls:24 - Navigate to Toll Tab
+2019-01-21 16:01:452 INFO  TestTolls:30 - Verify the total count of singapore location having Toll gate
+2019-01-21 16:01:871 INFO  TestTolls:38 - Verify all the location of singapore having Toll Gates
+2019-01-21 16:01:872 INFO  TestCamera:43 - Verify the total live traffic camera of Malaysia
+2019-01-21 18:01:792 INFO  CameraPages:38 - Navigate to Camera Tab...
+2019-01-21 18:01:720 INFO  TestCamera:25 - Navigate to Camera Tab
+2019-01-21 18:01:760 INFO  TestCamera:31 - Verify the total live traffic camera of Singapore
+2019-01-21 18:01:889 INFO  TestCamera:38 - Verify all the location of singapore having live traffic cameras S
+2019-01-21 18:01:889 INFO  TestCamera:43 - Verify the total live traffic camera of Malaysia
+2019-01-21 18:01:453 INFO  TollPages:34 - Navigate to Toll Tab...
+2019-01-21 18:01:876 INFO  TestTolls:24 - Navigate to Toll Tab
+2019-01-21 18:01:906 INFO  TestTolls:30 - Verify the total count of singapore location having Toll gate
+2019-01-21 18:01:666 INFO  TestTolls:38 - Verify all the location of singapore having Toll Gates
+2019-01-21 18:01:666 INFO  TestCamera:43 - Verify the total live traffic camera of Malaysia
+2019-01-21 18:01:247 INFO  CameraPages:38 - Navigate to Camera Tab...
+2019-01-21 18:01:660 INFO  TestCamera:25 - Navigate to Camera Tab
+2019-01-21 18:01:703 INFO  TestCamera:31 - Verify the total live traffic camera of Singapore
+2019-01-21 18:01:813 INFO  TestCamera:38 - Verify all the location of singapore having live traffic cameras S
+2019-01-21 18:01:823 INFO  TestCamera:43 - Verify the total live traffic camera of Malaysia
+2019-01-21 18:01:721 INFO  TollPages:34 - Navigate to Toll Tab...
+2019-01-21 18:01:142 INFO  TestTolls:24 - Navigate to Toll Tab
+2019-01-21 18:01:165 INFO  TestTolls:30 - Verify the total count of singapore location having Toll gate
+2019-01-21 18:01:863 INFO  TestTolls:38 - Verify all the location of singapore having Toll Gates
+2019-01-21 18:01:873 INFO  TestCamera:43 - Verify the total live traffic camera of Malaysia
+2019-01-22 12:01:213 INFO  CameraPages:38 - Navigate to Camera Tab...
+2019-01-22 12:01:689 INFO  TestCamera:25 - Navigate to Camera Tab
+2019-01-22 12:01:729 INFO  TestCamera:31 - Verify the total live traffic camera of Singapore
+2019-01-22 12:01:956 INFO  TestCamera:38 - Verify all the location of singapore having live traffic cameras S
+2019-01-22 12:01:956 INFO  TestCamera:43 - Verify the total live traffic camera of Malaysia
+2019-01-22 12:01:654 INFO  JavaScriptHelper:18 - JavaScriptHelper has been initialised
+2019-01-22 12:01:934 INFO  JavaScriptHelper:18 - JavaScriptHelper has been initialised
+2019-01-22 12:01:314 INFO  JavaScriptHelper:18 - JavaScriptHelper has been initialised
+2019-01-22 12:01:260 INFO  CameraPages:38 - Navigate to Camera Tab...
+2019-01-22 12:01:679 INFO  TestCamera:25 - Navigate to Camera Tab
+2019-01-22 12:01:710 INFO  TestCamera:31 - Verify the total live traffic camera of Singapore
+2019-01-22 12:01:680 INFO  TestCamera:38 - Verify all the location of singapore having live traffic cameras S
+2019-01-22 12:01:684 INFO  TestCamera:43 - Verify the total live traffic camera of Malaysia
+2019-01-22 12:01:767 INFO  JavaScriptHelper:18 - JavaScriptHelper has been initialised
+2019-01-22 12:01:585 INFO  TollPages:34 - Navigate to Toll Tab...
+2019-01-22 12:01:996 INFO  TestTolls:24 - Navigate to Toll Tab
+2019-01-22 12:01:27 INFO  TestTolls:30 - Verify the total count of singapore location having Toll gate
+2019-01-22 12:01:685 INFO  TestTolls:38 - Verify all the location of singapore having Toll Gates
+2019-01-22 12:01:689 INFO  TestCamera:43 - Verify the total live traffic camera of Malaysia
+2019-01-22 12:01:183 INFO  CameraPages:38 - Navigate to Camera Tab...
+2019-01-22 12:01:602 INFO  TestCamera:25 - Navigate to Camera Tab
+2019-01-22 12:01:628 INFO  TestCamera:31 - Verify the total live traffic camera of Singapore
+2019-01-22 12:01:578 INFO  TestCamera:38 - Verify all the location of singapore having live traffic cameras S
+2019-01-22 12:01:581 INFO  TestCamera:43 - Verify the total live traffic camera of Malaysia
+2019-01-22 12:01:195 INFO  JavaScriptHelper:18 - JavaScriptHelper has been initialised
+2019-01-22 12:01:819 INFO  TollPages:34 - Navigate to Toll Tab...
+2019-01-22 12:01:243 INFO  TestTolls:24 - Navigate to Toll Tab
+2019-01-22 12:01:269 INFO  TestTolls:30 - Verify the total count of singapore location having Toll gate
+2019-01-22 12:01:853 INFO  TestTolls:38 - Verify all the location of singapore having Toll Gates
+2019-01-22 12:01:856 INFO  TestCamera:43 - Verify the total live traffic camera of Malaysia
+2019-01-22 12:01:919 INFO  CameraPages:38 - Navigate to Camera Tab...
+2019-01-22 12:01:382 INFO  TestCamera:25 - Navigate to Camera Tab
+2019-01-22 12:01:412 INFO  TestCamera:31 - Verify the total live traffic camera of Singapore
+2019-01-22 12:01:558 INFO  TestCamera:38 - Verify all the location of singapore having live traffic cameras S
+2019-01-22 12:01:558 INFO  TestCamera:43 - Verify the total live traffic camera of Malaysia
+2019-01-22 12:01:407 INFO  JavaScriptHelper:18 - JavaScriptHelper has been initialised
+2019-01-22 12:01:193 INFO  TollPages:34 - Navigate to Toll Tab...
+2019-01-22 12:01:595 INFO  TestTolls:24 - Navigate to Toll Tab
+2019-01-22 12:01:618 INFO  TestTolls:30 - Verify the total count of singapore location having Toll gate
+2019-01-22 12:01:321 INFO  TestTolls:38 - Verify all the location of singapore having Toll Gates
+2019-01-22 12:01:331 INFO  TestCamera:43 - Verify the total live traffic camera of Malaysia
+2019-01-22 12:01:196 INFO  CameraPages:38 - Navigate to Camera Tab...
+2019-01-22 12:01:628 INFO  TestCamera:25 - Navigate to Camera Tab
+2019-01-22 12:01:655 INFO  TestCamera:31 - Verify the total live traffic camera of Singapore
+2019-01-22 12:01:927 INFO  TestCamera:38 - Verify all the location of singapore having live traffic cameras S
+2019-01-22 12:01:927 INFO  TestCamera:43 - Verify the total live traffic camera of Malaysia
+2019-01-22 12:01:650 INFO  JavaScriptHelper:18 - JavaScriptHelper has been initialised
+2019-01-22 12:01:14 INFO  TollPages:34 - Navigate to Toll Tab...
+2019-01-22 12:01:437 INFO  TestTolls:24 - Navigate to Toll Tab
+2019-01-22 12:01:471 INFO  TestTolls:30 - Verify the total count of singapore location having Toll gate
+2019-01-22 12:01:648 INFO  TestCamera:43 - Verify the total live traffic camera of Malaysia
+2019-01-22 14:01:103 INFO  CameraPages:38 - Navigate to Camera Tab...
+2019-01-22 14:01:522 INFO  TestCamera:25 - Navigate to Camera Tab
+2019-01-22 14:01:565 INFO  TestCamera:31 - Verify the total live traffic camera of Singapore
+2019-01-22 14:01:806 INFO  TestCamera:38 - Verify all the location of singapore having live traffic cameras S
+2019-01-22 14:01:806 INFO  TestCamera:43 - Verify the total live traffic camera of Malaysia
+2019-01-22 14:01:332 INFO  JavaScriptHelper:18 - JavaScriptHelper has been initialised
+2019-01-22 14:01:474 INFO  JavaScriptHelper:18 - JavaScriptHelper has been initialised
+2019-01-22 14:01:308 INFO  JavaScriptHelper:18 - JavaScriptHelper has been initialised
+2019-01-22 15:01:371 INFO  JavaScriptHelper:18 - JavaScriptHelper has been initialised
+2019-01-22 15:01:217 INFO  JavaScriptHelper:18 - JavaScriptHelper has been initialised
+2019-01-22 15:01:237 INFO  JavaScriptHelper:18 - JavaScriptHelper has been initialised
+2019-01-22 15:01:466 INFO  JavaScriptHelper:18 - JavaScriptHelper has been initialised
+2019-01-22 15:01:07 INFO  JavaScriptHelper:18 - JavaScriptHelper has been initialised
+2019-01-22 15:01:437 INFO  CameraPages:38 - Navigate to Camera Tab...
+2019-01-22 15:01:824 INFO  TestCamera:25 - Navigate to Camera Tab
+2019-01-22 15:01:867 INFO  TestCamera:31 - Verify the total live traffic camera of Singapore
+2019-01-22 15:01:15 INFO  TestCamera:38 - Verify all the location of singapore having live traffic cameras S
+2019-01-22 15:01:15 INFO  TestCamera:43 - Verify the total live traffic camera of Malaysia
+2019-01-22 15:01:938 INFO  JavaScriptHelper:18 - JavaScriptHelper has been initialised
+2019-01-22 15:01:204 INFO  TollPages:34 - Navigate to Toll Tab...
+2019-01-22 15:01:620 INFO  TestTolls:24 - Navigate to Toll Tab
+2019-01-22 15:01:641 INFO  TestTolls:30 - Verify the total count of singapore location having Toll gate
+2019-01-22 15:01:325 INFO  TestTolls:38 - Verify all the location of singapore having Toll Gates
+2019-01-22 15:01:325 INFO  TestCamera:43 - Verify the total live traffic camera of Malaysia
+2019-03-29 12:03:998 INFO  AreaPage:57 - Click on Add Area...
+2019-03-29 12:03:431 INFO  AreaPage:57 - Click on Add Area...
+2019-03-29 12:03:591 INFO  AreaPage:57 - Click on Add Area...
+2019-03-29 12:03:449 INFO  AreaPage:57 - Click on Add Area...
+2019-03-29 12:03:466 INFO  AreaPage:57 - Click on Add Area...
+2019-03-29 14:03:302 INFO  AreaPage:57 - Click on Add Area...
+2019-03-29 14:03:440 INFO  AreaPage:57 - Click on Add Area...
+2019-03-29 15:03:479 INFO  AreaPage:57 - Click on Add Area...
+2019-03-29 15:03:835 INFO  AreaPage:57 - Click on Add Area...
+2019-03-29 16:03:363 INFO  WaitHelper:25 - WaitHelper object created..
+2019-03-29 16:03:754 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (9338dbac56a189a6379210458d600a3d)] -> xpath: //*[contains(text(),'Area List')]] for :30 seconds
+2019-03-29 16:03:525 INFO  WaitHelper:25 - WaitHelper object created..
+2019-03-29 16:03:128 INFO  WaitHelper:25 - WaitHelper object created..
+2019-03-29 16:03:194 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (ad03a42f47f453acd60e13f256c2d90c)] -> xpath: //*[contains(text(),'Area List')]] for :30 seconds
+2019-03-29 16:03:219 INFO  WaitHelper:164 - element is visible now
+2019-03-29 16:03:321 INFO  AreaPage:62 - Click on Add Area...
+2019-03-29 18:03:98 INFO  WaitHelper:25 - WaitHelper object created..
+2019-03-29 18:03:128 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (04f3abe9f48e27705b299f65aa40a293)] -> xpath: //*[contains(text(),'Area List')]] for :30 seconds
+2019-03-29 18:03:150 INFO  WaitHelper:164 - element is visible now
+2019-03-29 18:03:308 INFO  AreaPage:62 - Click on Add Area...
+2019-03-29 18:03:356 INFO  WaitHelper:25 - WaitHelper object created..
+2019-03-29 18:03:379 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (2272f102dec9f63c662b40f46b387587)] -> xpath: //*[contains(text(),'Area List')]] for :30 seconds
+2019-03-29 18:03:396 INFO  WaitHelper:164 - element is visible now
+2019-03-29 18:03:87 INFO  WaitHelper:25 - WaitHelper object created..
+2019-03-29 18:03:115 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (6d59cba5d9e764cea8c49fb6025d7860)] -> xpath: //*[contains(text(),'Area List')]] for :30 seconds
+2019-03-29 18:03:138 INFO  WaitHelper:164 - element is visible now
+2019-03-29 18:03:205 INFO  AreaPage:66 - Click on Add Area...
+2019-03-29 18:03:958 INFO  WaitHelper:25 - WaitHelper object created..
+2019-03-29 18:03:986 INFO  WaitHelper:25 - WaitHelper object created..
+2019-03-29 18:03:05 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (5cd3c1e12e4a466fec82d7602f2f24b8)] -> xpath: //*[contains(text(),'Area List')]] for :30 seconds
+2019-03-29 18:03:25 INFO  WaitHelper:164 - element is visible now
+2019-03-29 18:03:97 INFO  AreaPage:68 - Click on Add Area...
+2019-03-29 18:03:752 INFO  WaitHelper:25 - WaitHelper object created..
+2019-03-29 18:03:787 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (22150e6247463b339125d71bfd9e8130)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[1]] for :30 seconds
+2019-03-29 18:03:812 INFO  WaitHelper:164 - element is visible now
+2019-03-29 18:03:261 INFO  WaitHelper:25 - WaitHelper object created..
+2019-03-29 18:03:290 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (be6d285efaca7d2c04e60c4be568e121)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[2]] for :30 seconds
+2019-03-29 18:03:315 INFO  WaitHelper:164 - element is visible now
+2019-03-29 18:03:657 INFO  WaitHelper:25 - WaitHelper object created..
+2019-03-29 18:03:202 INFO  WaitHelper:161 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[1]' for :30 seconds
+2019-03-29 18:03:964 INFO  WaitHelper:25 - WaitHelper object created..
+2019-03-29 18:03:997 INFO  WaitHelper:25 - WaitHelper object created..
+2019-03-29 18:03:33 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (5650a52da4d494a9f0c083a7c483f64b)] -> xpath: //*[contains(text(),'Area List')]] for :30 seconds
+2019-03-29 18:03:50 INFO  WaitHelper:164 - element is visible now
+2019-03-29 18:03:350 INFO  WaitHelper:25 - WaitHelper object created..
+2019-03-29 18:03:379 INFO  WaitHelper:25 - WaitHelper object created..
+2019-03-29 18:03:404 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (52172148ff848c9f6d6ee2b4bc9f509e)] -> xpath: //*[contains(text(),'Area List')]] for :30 seconds
+2019-03-29 18:03:424 INFO  WaitHelper:164 - element is visible now
+2019-03-29 18:03:505 INFO  AreaPage:68 - Click on Add Area...
+2019-03-29 18:03:945 INFO  WaitHelper:25 - WaitHelper object created..
+2019-03-29 18:03:12 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (75b1daefa91c642806afee7b8d2c8178)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[1]] for :30 seconds
+2019-03-29 18:03:39 INFO  WaitHelper:164 - element is visible now
+2019-03-29 19:03:718 INFO  WaitHelper:25 - WaitHelper object created..
+2019-03-29 19:03:780 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (496d3e8c8cab4ca8a86f5d6818e56081)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[1]] for :30 seconds
+2019-03-29 19:03:898 INFO  WaitHelper:164 - element is visible now
+2019-03-29 19:03:407 INFO  WaitHelper:161 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='inputEmail3' and @name='areaName' and @type='text']' for :30 seconds
+2019-03-29 19:03:429 INFO  WaitHelper:164 - element is visible now
+2019-03-29 19:03:295 INFO  WaitHelper:25 - WaitHelper object created..
+2019-03-29 19:03:357 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (2bb49d99c2028cbd263cbcc914508782)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[2]] for :30 seconds
+2019-03-29 19:03:380 INFO  WaitHelper:164 - element is visible now
+2019-03-29 19:03:114 INFO  WaitHelper:25 - WaitHelper object created..
+2019-03-29 19:03:619 INFO  WaitHelper:161 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[2]' for :30 seconds
+2019-03-29 19:03:371 INFO  WaitHelper:25 - WaitHelper object created..
+2019-03-29 19:03:872 INFO  WaitHelper:161 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[2]' for :30 seconds
+2019-03-29 19:03:311 INFO  WaitHelper:25 - WaitHelper object created..
+2019-03-29 19:03:346 INFO  WaitHelper:25 - WaitHelper object created..
+2019-03-29 19:03:368 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (7888357375c46d2bc3213d26bfe020d9)] -> xpath: //*[contains(text(),'Area List')]] for :30 seconds
+2019-03-29 19:03:384 INFO  WaitHelper:164 - element is visible now
+2019-03-29 19:03:473 INFO  WaitHelper:25 - WaitHelper object created..
+2019-03-29 19:03:536 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (ccc216b941d002b98fc8248c28c3759f)] -> xpath: //*[contains(text(),'Add Area')]] for :30 seconds
+2019-03-29 19:03:563 INFO  WaitHelper:164 - element is visible now
+2019-03-29 19:03:454 INFO  WaitHelper:25 - WaitHelper object created..
+2019-03-29 19:03:520 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (d028326c2fd35dd41797d2c1a964259b)] -> xpath: //*[contains(text(),'Add Area')]] for :30 seconds
+2019-03-29 19:03:553 INFO  WaitHelper:164 - element is visible now
+2019-04-01 11:04:799 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-01 11:04:851 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (c033ce6df96167e439fb81309ed6b587)] -> xpath: //*[contains(text(),'Add Area')]] for :30 seconds
+2019-04-01 11:04:881 INFO  WaitHelper:164 - element is visible now
+2019-04-01 11:04:881 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-01 11:04:912 INFO  AreaPage:69 - Click on Add Area...
+2019-04-01 11:04:450 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-01 11:04:507 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (acd102257f319a55c182fe69ae86f7ba)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[1]] for :30 seconds
+2019-04-01 11:04:531 INFO  WaitHelper:164 - element is visible now
+2019-04-01 11:04:527 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-01 11:04:529 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-01 11:04:593 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (4fafb256f1d24d536e3f8292b2d947b1)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[1]] for :30 seconds
+2019-04-01 11:04:622 INFO  WaitHelper:164 - element is visible now
+2019-04-01 11:04:108 INFO  WaitHelper:161 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='inputEmail3' and @name='areaName' and @type='text']' for :30 seconds
+2019-04-01 11:04:131 INFO  WaitHelper:164 - element is visible now
+2019-04-01 11:04:977 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-01 11:04:980 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-01 11:04:38 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (7ecbbb7919152773bf48da84ddcb992d)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[2]] for :30 seconds
+2019-04-01 11:04:67 INFO  WaitHelper:164 - element is visible now
+2019-04-01 11:04:142 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-01 11:04:145 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-01 11:04:201 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (6bbbfd6fac65196bf63909faf4b67b5b)] -> xpath: //*[contains(text(),'Add Area')]] for :30 seconds
+2019-04-01 11:04:241 INFO  WaitHelper:164 - element is visible now
+2019-04-01 11:04:279 INFO  AreaPage:70 - Click on Add Area...
+2019-04-01 11:04:291 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-01 11:04:292 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-01 11:04:316 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (1fc640c10679dd61f07572ff3f4cfd64)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[1]] for :30 seconds
+2019-04-01 11:04:347 INFO  WaitHelper:164 - element is visible now
+2019-04-01 11:04:897 INFO  WaitHelper:161 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='inputEmail3' and @name='areaName' and @type='text']' for :30 seconds
+2019-04-01 11:04:920 INFO  WaitHelper:164 - element is visible now
+2019-04-01 11:04:569 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-01 11:04:569 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-01 11:04:68 INFO  WaitHelper:161 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[2]' for :30 seconds
+2019-04-01 11:04:90 INFO  WaitHelper:164 - element is visible now
+2019-04-01 11:04:498 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-01 11:04:502 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-01 11:04:625 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (29f0eb88c2d4e372b976a8d5fae08f19)] -> xpath: //*[contains(text(),'Add Area')]] for :30 seconds
+2019-04-01 11:04:654 INFO  WaitHelper:164 - element is visible now
+2019-04-01 11:04:693 INFO  AreaPage:70 - Click on Add Area...
+2019-04-01 11:04:957 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-01 11:04:957 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-01 11:04:993 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (4d059d7ca0d3072f10a03fb225ec83f4)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[1]] for :30 seconds
+2019-04-01 11:04:32 INFO  WaitHelper:164 - element is visible now
+2019-04-01 11:04:521 INFO  WaitHelper:161 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='inputEmail3' and @name='areaName' and @type='text']' for :30 seconds
+2019-04-01 11:04:541 INFO  WaitHelper:164 - element is visible now
+2019-04-01 11:04:594 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-01 11:04:594 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-01 11:04:288 INFO  WaitHelper:161 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[2]' for :30 seconds
+2019-04-01 11:04:328 INFO  WaitHelper:164 - element is visible now
+2019-04-01 11:04:112 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-01 11:04:116 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-01 11:04:233 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (45f3eb31fd25a64a0440438b0b1a0d9d)] -> xpath: //*[contains(text(),'Add Area')]] for :30 seconds
+2019-04-01 11:04:258 INFO  WaitHelper:164 - element is visible now
+2019-04-01 11:04:297 INFO  AreaPage:70 - Click on Add Area...
+2019-04-01 11:04:473 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-01 11:04:474 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-01 11:04:503 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (70bcbcdcc3bcbd521153c061ef3362e2)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[1]] for :30 seconds
+2019-04-01 11:04:612 INFO  WaitHelper:164 - element is visible now
+2019-04-01 11:04:102 INFO  WaitHelper:161 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='inputEmail3' and @name='areaName' and @type='text']' for :30 seconds
+2019-04-01 11:04:121 INFO  WaitHelper:164 - element is visible now
+2019-04-01 11:04:178 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-01 11:04:178 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-01 11:04:661 INFO  WaitHelper:161 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[2]' for :30 seconds
+2019-04-01 11:04:320 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-01 11:04:324 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-01 11:04:443 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (7f12992c618c6e6594897e47b7409e68)] -> xpath: //*[contains(text(),'Add Area')]] for :30 seconds
+2019-04-01 11:04:466 INFO  WaitHelper:164 - element is visible now
+2019-04-01 11:04:502 INFO  AreaPage:70 - Click on Add Area...
+2019-04-01 11:04:598 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-01 11:04:599 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-01 11:04:624 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (01f1512280397bec81e95f3568be9829)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[1]] for :30 seconds
+2019-04-01 11:04:647 INFO  WaitHelper:164 - element is visible now
+2019-04-01 11:04:180 INFO  WaitHelper:161 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='inputEmail3' and @name='areaName' and @type='text']' for :30 seconds
+2019-04-01 11:04:209 INFO  WaitHelper:164 - element is visible now
+2019-04-01 11:04:61 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-01 11:04:61 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-01 11:04:89 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (9a6fa1ffe004a5ea591dd7422c75e457)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[2]] for :30 seconds
+2019-04-01 11:04:113 INFO  WaitHelper:164 - element is visible now
+2019-04-01 11:04:844 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-01 11:04:847 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-01 11:04:939 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (7dd5cc492ad311ef6a189cd0bcd13b63)] -> xpath: //*[contains(text(),'Add Area')]] for :30 seconds
+2019-04-01 11:04:962 INFO  WaitHelper:164 - element is visible now
+2019-04-01 11:04:996 INFO  AreaPage:70 - Click on Add Area...
+2019-04-01 11:04:100 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-01 11:04:101 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-01 11:04:121 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (1baa7cb70e3551f048521e6c1755e9a7)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[1]] for :30 seconds
+2019-04-01 11:04:138 INFO  WaitHelper:164 - element is visible now
+2019-04-01 11:04:596 INFO  WaitHelper:161 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='inputEmail3' and @name='areaName' and @type='text']' for :30 seconds
+2019-04-01 11:04:614 INFO  WaitHelper:164 - element is visible now
+2019-04-01 11:04:555 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-01 11:04:555 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-01 11:04:580 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (2505c20c354215fb509b6fb4486777cf)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[2]] for :30 seconds
+2019-04-01 11:04:598 INFO  WaitHelper:164 - element is visible now
+2019-04-01 12:04:749 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-01 12:04:753 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-01 12:04:808 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (b0bebabf065b4511aa0828b130f4c4b9)] -> xpath: //*[contains(text(),'Add Area')]] for :30 seconds
+2019-04-01 12:04:830 INFO  WaitHelper:164 - element is visible now
+2019-04-01 12:04:863 INFO  AreaPage:70 - Click on Add Area...
+2019-04-01 12:04:909 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-01 12:04:909 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-01 12:04:434 INFO  WaitHelper:161 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[1]' for :30 seconds
+2019-04-01 12:04:461 INFO  WaitHelper:164 - element is visible now
+2019-04-01 12:04:949 INFO  WaitHelper:161 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='inputEmail3' and @name='areaName' and @type='text']' for :30 seconds
+2019-04-01 12:04:967 INFO  WaitHelper:164 - element is visible now
+2019-04-01 12:04:74 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-01 12:04:74 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-01 12:04:658 INFO  WaitHelper:161 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[2]' for :30 seconds
+2019-04-01 12:04:685 INFO  WaitHelper:164 - element is visible now
+2019-04-01 12:04:969 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-01 12:04:973 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-01 12:04:29 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (ec0d89c139f529724e7ab00f038bf414)] -> xpath: //*[contains(text(),'Add Area')]] for :30 seconds
+2019-04-01 12:04:53 INFO  WaitHelper:164 - element is visible now
+2019-04-01 12:04:82 INFO  AreaPage:70 - Click on Add Area...
+2019-04-01 12:04:450 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-01 12:04:450 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-01 12:04:475 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (606b71226262e1ad30b03876e87b1e9b)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[1]] for :30 seconds
+2019-04-01 12:04:497 INFO  WaitHelper:164 - element is visible now
+2019-04-01 12:04:21 INFO  WaitHelper:161 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='inputEmail3' and @name='areaName' and @type='text']' for :30 seconds
+2019-04-01 12:04:44 INFO  WaitHelper:164 - element is visible now
+2019-04-01 12:04:697 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-01 12:04:698 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-01 12:04:730 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (ebbf327edb95d57958d1837ab19e23a9)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[2]] for :30 seconds
+2019-04-01 12:04:752 INFO  WaitHelper:164 - element is visible now
+2019-04-01 12:04:478 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-01 12:04:481 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-01 12:04:519 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (ee2dc64080cdbdb10a65f99af23e4f5b)] -> xpath: //*[contains(text(),'Add Area')]] for :30 seconds
+2019-04-01 12:04:543 INFO  WaitHelper:164 - element is visible now
+2019-04-01 12:04:571 INFO  AreaPage:70 - Click on Add Area...
+2019-04-01 12:04:602 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-01 12:04:606 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-01 12:04:663 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (ea5b060d57d4232318212a56c4ca1581)] -> xpath: //*[contains(text(),'Add Area')]] for :30 seconds
+2019-04-01 12:04:688 INFO  WaitHelper:164 - element is visible now
+2019-04-01 12:04:719 INFO  AreaPage:70 - Click on Add Area...
+2019-04-01 12:04:215 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-01 12:04:216 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-01 12:04:240 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (1e062201002019c09c50b9006774a75c)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[2]] for :30 seconds
+2019-04-01 12:04:260 INFO  WaitHelper:164 - element is visible now
+2019-04-01 12:04:817 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-01 12:04:822 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-01 12:04:901 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (2e95c52e5608d48f2969612c73a7225f)] -> xpath: //*[contains(text(),'Add Area')]] for :30 seconds
+2019-04-01 12:04:939 INFO  WaitHelper:164 - element is visible now
+2019-04-01 12:04:983 INFO  AreaPage:70 - Click on Add Area...
+2019-04-01 12:04:682 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-01 12:04:683 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-01 12:04:709 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (d972707f154f6f27d1992a7f6ee0f789)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[2]] for :30 seconds
+2019-04-01 12:04:743 INFO  WaitHelper:164 - element is visible now
+2019-04-01 12:04:261 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-01 12:04:266 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-01 12:04:339 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (5be5904e9330625ad534cd45f73b3f57)] -> xpath: //*[contains(text(),'Add Area')]] for :30 seconds
+2019-04-01 12:04:364 INFO  WaitHelper:164 - element is visible now
+2019-04-01 12:04:407 INFO  AreaPage:70 - Click on Add Area...
+2019-04-01 12:04:182 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-01 12:04:182 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-01 12:04:212 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (1884059a773b952a9e4e4d46fcaea54d)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[1]] for :30 seconds
+2019-04-01 12:04:246 INFO  WaitHelper:164 - element is visible now
+2019-04-01 12:04:808 INFO  WaitHelper:161 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='inputEmail3' and @name='areaName' and @type='text']' for :30 seconds
+2019-04-01 12:04:829 INFO  WaitHelper:164 - element is visible now
+2019-04-01 12:04:538 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-01 12:04:538 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-01 12:04:562 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (a3b40408e775f64e58cd8d4c62f42ed0)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[2]] for :30 seconds
+2019-04-01 12:04:590 INFO  WaitHelper:164 - element is visible now
+2019-04-02 16:04:825 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 16:04:847 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 16:04:949 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (3b98c8980c63a3688cfb7c1ebf897852)] -> xpath: //*[contains(text(),'Add Area')]] for :30 seconds
+2019-04-02 16:04:977 INFO  WaitHelper:164 - element is visible now
+2019-04-02 16:04:25 INFO  AreaPage:70 - Click on Add Area...
+2019-04-02 16:04:198 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 16:04:198 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 16:04:798 INFO  WaitHelper:161 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[1]' for :30 seconds
+2019-04-02 16:04:21 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 16:04:22 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 16:04:687 INFO  WaitHelper:161 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[2]' for :30 seconds
+2019-04-02 16:04:623 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 16:04:627 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 16:04:685 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (3ddc942d8db94820bb86c5bc32f97ca0)] -> xpath: //*[contains(text(),'Add Area')]] for :30 seconds
+2019-04-02 16:04:719 INFO  WaitHelper:164 - element is visible now
+2019-04-02 16:04:761 INFO  AreaPage:70 - Click on Add Area...
+2019-04-02 17:04:314 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 17:04:317 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 17:04:380 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (7ea4203a0f2bbef2281fd52e7e38d7d5)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[2]] for :30 seconds
+2019-04-02 17:04:413 INFO  WaitHelper:164 - element is visible now
+2019-04-02 17:04:78 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 17:04:81 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 17:04:145 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (a4933a540c03f81d88636295bdbf7e3c)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[2]] for :30 seconds
+2019-04-02 17:04:178 INFO  WaitHelper:164 - element is visible now
+2019-04-02 17:04:458 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 17:04:463 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 17:04:161 INFO  WaitHelper:161 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[2]' for :30 seconds
+2019-04-02 17:04:370 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 17:04:373 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 17:04:419 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (71d94347f223777bca11af4ec5b678a7)] -> xpath: //*[contains(text(),'Add Area')]] for :30 seconds
+2019-04-02 17:04:456 INFO  WaitHelper:164 - element is visible now
+2019-04-02 17:04:847 INFO  AreaPage:70 - Click on Add Area...
+2019-04-02 17:04:730 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 17:04:730 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 17:04:262 INFO  WaitHelper:161 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[1]' for :30 seconds
+2019-04-02 17:04:122 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 17:04:123 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 17:04:805 INFO  WaitHelper:161 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[2]' for :30 seconds
+2019-04-02 17:04:304 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 17:04:308 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 17:04:420 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (4b4869e28274c8ad6ea6c73d87391a37)] -> xpath: //*[contains(text(),'Add Area')]] for :30 seconds
+2019-04-02 17:04:445 INFO  WaitHelper:164 - element is visible now
+2019-04-02 17:04:481 INFO  AreaPage:70 - Click on Add Area...
+2019-04-02 17:04:161 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 17:04:161 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 17:04:770 INFO  WaitHelper:161 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[1]' for :30 seconds
+2019-04-02 17:04:965 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 17:04:968 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 17:04:26 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (d051c3c78fd93cb94f1836f78913d9cc)] -> xpath: //*[contains(text(),'Add Area')]] for :30 seconds
+2019-04-02 17:04:58 INFO  WaitHelper:164 - element is visible now
+2019-04-02 17:04:94 INFO  AreaPage:70 - Click on Add Area...
+2019-04-02 17:04:280 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 17:04:284 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 17:04:347 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (1feb616c06d5c3f0eeb4fd0bb5f836cb)] -> xpath: //*[contains(text(),'Add Area')]] for :30 seconds
+2019-04-02 17:04:380 INFO  WaitHelper:164 - element is visible now
+2019-04-02 17:04:419 INFO  AreaPage:70 - Click on Add Area...
+2019-04-02 17:04:948 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 17:04:954 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 17:04:22 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (95a43dc44bab6896e1458f24b6ef418e)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[2]] for :30 seconds
+2019-04-02 17:04:53 INFO  WaitHelper:164 - element is visible now
+2019-04-02 17:04:177 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 17:04:181 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 17:04:239 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (a8de63c715458f254aa173f155f3f066)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[2]] for :30 seconds
+2019-04-02 17:04:274 INFO  WaitHelper:164 - element is visible now
+2019-04-02 17:04:669 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 17:04:672 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 17:04:757 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (309c4d60512e4e97178a2a36d5a8d4f5)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[2]] for :30 seconds
+2019-04-02 17:04:786 INFO  WaitHelper:164 - element is visible now
+2019-04-02 17:04:480 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 17:04:483 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 17:04:555 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (365f2ab745b26aa66c7e8064be6f632c)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[2]] for :30 seconds
+2019-04-02 17:04:594 INFO  WaitHelper:164 - element is visible now
+2019-04-02 17:04:768 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 17:04:771 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 17:04:831 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (e4ae4357a66eef2bfd64b559adcc6341)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[2]] for :30 seconds
+2019-04-02 17:04:863 INFO  WaitHelper:164 - element is visible now
+2019-04-02 17:04:272 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 17:04:275 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 17:04:859 INFO  WaitHelper:161 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[2]' for :30 seconds
+2019-04-02 17:04:156 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 17:04:159 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 17:04:206 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (757486be5ba8869b4f4cb2ea8f670dec)] -> xpath: //*[contains(text(),'Add Area')]] for :30 seconds
+2019-04-02 17:04:234 INFO  WaitHelper:164 - element is visible now
+2019-04-02 17:04:272 INFO  AreaPage:70 - Click on Add Area...
+2019-04-02 17:04:573 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 17:04:574 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 17:04:601 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (9370d55e7f08ebda8c1d9b3b25308b6a)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[1]] for :30 seconds
+2019-04-02 17:04:628 INFO  WaitHelper:164 - element is visible now
+2019-04-02 17:04:158 INFO  WaitHelper:161 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='inputEmail3' and @name='areaName' and @type='text']' for :30 seconds
+2019-04-02 17:04:182 INFO  WaitHelper:164 - element is visible now
+2019-04-02 17:04:965 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 17:04:966 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 17:04:468 INFO  WaitHelper:161 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[2]' for :30 seconds
+2019-04-02 17:04:935 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 17:04:939 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 17:04:64 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (13c8834b79ad7601ee50742b0fb555a6)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[2]] for :30 seconds
+2019-04-02 17:04:94 INFO  WaitHelper:164 - element is visible now
+2019-04-02 17:04:31 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 17:04:33 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 17:04:94 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (ebc139e4724dadf0c7142c547c8807dc)] -> xpath: //*[contains(text(),'Add Area')]] for :30 seconds
+2019-04-02 17:04:128 INFO  WaitHelper:164 - element is visible now
+2019-04-02 17:04:164 INFO  AreaPage:70 - Click on Add Area...
+2019-04-02 17:04:248 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 17:04:251 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 17:04:298 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (7ab6e7a4e23314d46c580edb3df91ac1)] -> xpath: //*[contains(text(),'Add Area')]] for :30 seconds
+2019-04-02 17:04:325 INFO  WaitHelper:164 - element is visible now
+2019-04-02 17:04:357 INFO  AreaPage:70 - Click on Add Area...
+2019-04-02 17:04:887 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 17:04:888 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 17:04:914 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (f2754d059b452a79526e4335a32561b5)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[1]] for :30 seconds
+2019-04-02 17:04:946 INFO  WaitHelper:164 - element is visible now
+2019-04-02 17:04:495 INFO  WaitHelper:161 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='inputEmail3' and @name='areaName' and @type='text']' for :30 seconds
+2019-04-02 17:04:537 INFO  WaitHelper:164 - element is visible now
+2019-04-02 17:04:264 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 17:04:264 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 17:04:296 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (49f5ad46e4c057944e76e3f5049ced5b)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[2]] for :30 seconds
+2019-04-02 17:04:320 INFO  WaitHelper:164 - element is visible now
+2019-04-02 17:04:812 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 17:04:818 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 17:04:890 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (0851bcc007b4a872c5e1060f03e98633)] -> xpath: //*[contains(text(),'Add Area')]] for :30 seconds
+2019-04-02 17:04:928 INFO  WaitHelper:164 - element is visible now
+2019-04-02 17:04:965 INFO  AreaPage:70 - Click on Add Area...
+2019-04-02 17:04:805 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 17:04:806 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 17:04:832 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (3526c59ec50a784f4723aff6445d2de0)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[1]] for :30 seconds
+2019-04-02 17:04:858 INFO  WaitHelper:164 - element is visible now
+2019-04-02 17:04:374 INFO  WaitHelper:161 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='inputEmail3' and @name='areaName' and @type='text']' for :30 seconds
+2019-04-02 17:04:396 INFO  WaitHelper:164 - element is visible now
+2019-04-02 17:04:830 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 17:04:831 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 17:04:869 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (013a3a7d9deb06ac287797b781bccac8)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[2]] for :30 seconds
+2019-04-02 17:04:898 INFO  WaitHelper:164 - element is visible now
+2019-04-02 18:04:654 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 18:04:659 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 18:04:729 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (49611015473237e9da6dea798666e061)] -> xpath: //*[contains(text(),'Add Area')]] for :30 seconds
+2019-04-02 18:04:759 INFO  WaitHelper:164 - element is visible now
+2019-04-02 18:04:796 INFO  AreaPage:70 - Click on Add Area...
+2019-04-02 18:04:148 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 18:04:149 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 18:04:183 INFO  WaitHelper:161 - waiting for :[[ChromeDriver: chrome on XP (be2d199a45c22c0f95553fd2ad4a2f9a)] -> xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[1]] for :30 seconds
+2019-04-02 18:04:207 INFO  WaitHelper:164 - element is visible now
+2019-04-02 18:04:742 INFO  WaitHelper:161 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //input[@id='inputEmail3' and @name='areaName' and @type='text']' for :30 seconds
+2019-04-02 18:04:770 INFO  WaitHelper:164 - element is visible now
+2019-04-02 18:04:159 INFO  WaitHelper:25 - WaitHelper object created..
+2019-04-02 18:04:159 INFO  JavaScriptHelper:22 - JavaScriptHelper has been initialised
+2019-04-02 18:04:658 INFO  WaitHelper:161 - waiting for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="my_table"]/tbody/tr[5]/td[4]/i[2]' for :30 seconds
+2019-04-02 18:04:677 INFO  WaitHelper:164 - element is visible now
